@@ -79,5 +79,5 @@ holiday_hash.each do |season, holiday_hash|
     end
   end
 end
-
+return holidays_with_bbq
 end
